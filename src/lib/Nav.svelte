@@ -6,7 +6,7 @@
 </script>
 
 <nav class="nav">
-	<div class="logo">Brand</div>
+	<div class="logo">Ali Store</div>
 
 	<button class="burger" on:click={toggle} aria-label="toggle menu">
 		<div></div><div></div><div></div>
